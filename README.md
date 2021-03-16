@@ -1,2 +1,2 @@
 # Pagina-de-login
-Página de login feita com css e html para um proejto do Free Code Camp.
+Página de login feita com css e html para um projeto do Free Code Camp. Bifurcações são permitidas sob a licensa Mit.
